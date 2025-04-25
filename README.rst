@@ -15,7 +15,7 @@ Django test tools. Django >= 1.8
 
 Наборы стандартных проверок для Django-форм
 
-Пример теста `tests/tests_for_project.py <http://tests/tests_for_project.py>`_
+Пример теста `tests/tests_for_project.py </tests/tests_for_project.py>`_
 
 Описание тестовых классов и их параметров для описания форм
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
